@@ -1,12 +1,34 @@
 {
   "events": [
     {
-      "id": "AMMVNS190628",
+      "id": "amm",
       "type": "live",
       "title": "El mundo real para el equipo multidisciplinario en cáncer de mama",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et blandit enim. Proin metus dui, porttitor id viverra rutrum, tincidunt ut neque. Nullam semper diam justo, quis vulputate leo pretium eget. In in metus ante.",
-      "image": "https://via.placeholder.com/300x150.png",
+      "image": "https://via.placeholder.com/300x150.png?text=AMM",
       "time": "20190901T120000"
+    },
+
+    {
+      "id": "cemefi",
+      "type": "live",
+      "title": "Foro para Miembros del Cemefi",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et blandit enim. Proin metus dui, porttitor id viverra rutrum, tincidunt ut neque. Nullam semper diam justo, quis vulputate leo pretium eget. In in metus ante.",
+      "image": "https://via.placeholder.com/300x150.png?text=Cemefi",
+      "time": "20191001T120000"
+    }
+
+  ],
+
+  "themes": [
+    {
+      "id": "amm",
+      "theme": "default"
+    },
+
+    {
+      "id": "cemefi",
+      "theme": "alternative"
     }
   ]
 }
