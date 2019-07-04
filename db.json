@@ -5,7 +5,6 @@
       "slug": "amm",
       "title": "El mundo real para el equipo multidisciplinario en cáncer de mama",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et blandit enim. Proin metus dui, porttitor id viverra rutrum, tincidunt ut neque. Nullam semper diam justo, quis vulputate leo pretium eget. In in metus ante.",
-      "image": "https://via.placeholder.com/300x150.png?text=AMM",
       "theme": "default"
     },
 
@@ -14,6 +13,7 @@
       "slug": "cemefi",
       "title": "Foro para Miembros del Cemefi",
       "description": "Sed sit amet ante a nunc tincidunt rhoncus. Mauris nec velit nec lorem congue dictum. Nullam eros dolor, cursus et sodales eu, iaculis quis magna. Ut feugiat congue metus, varius convallis libero vestibulum a.",
+      "image": "http://web.onwebcast.com/cmf/media/images/poster_homesite.png",
       "theme": "alternative"
     }
   ]
