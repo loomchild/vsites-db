@@ -1,15 +1,13 @@
 {
   "sites": [
     {
-      "id": "AMM100",
-      "slug": "amm",
+      "id": "amm_amm",
       "background_color": "#0b6623",
       "layout": "alternative"
     },
 
     {
-      "id": "CMF100",
-      "slug": "cemefi",
+      "id": "cemefi_homesite",
       "logo": "https://www.cemefi.org/lacasa/view/img/logos/cemefi.png",
       "image": "http://web.onwebcast.com/cmf/media/images/poster_homesite.png",
       "layout": "default"
